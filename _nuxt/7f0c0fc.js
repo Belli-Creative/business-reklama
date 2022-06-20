@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{416:function(e){e.exports=JSON.parse('{"example":"Naprimer"}')}}]);
