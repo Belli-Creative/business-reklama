@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/scrmet", {data:[{}],fetch:{},mutations:[]});
